@@ -50,3 +50,9 @@ ls
 
 bypass SSL
 $git config --global http.sslVerify false
+
+
+Changes in files well explained. 
+
+$git add Readme.txt
+$git push origin master
