@@ -55,4 +55,5 @@ $git config --global http.sslVerify false
 Changes in files well explained. 
 
 $git add Readme.txt
+$git commit -m "Correcting Second Change in file which explain changes in file"
 $git push origin master
