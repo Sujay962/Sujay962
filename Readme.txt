@@ -46,3 +46,7 @@ $git checkout master
 $ls
 $git merge first_branch
 ls
+
+
+bypass SSL
+$git config --global http.sslVerify false
